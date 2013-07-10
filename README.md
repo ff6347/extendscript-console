@@ -1,0 +1,4 @@
+extendscript-console
+====================
+
+a console
